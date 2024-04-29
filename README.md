@@ -11,10 +11,10 @@ A股个股数据研究的小工具，该工具结合了[Ashare](https://github.c
 
 ![用户界面 1](screenshot1.jpeg)
 
-![用户界面 2](screenshot1.jpeg)
+![用户界面 2](screenshot2.jpeg)
 
 
-**<span style="color:red;">这是一个小工具，不作为投资建议</span>**
+<span style="color:red;">这是一个小工具，不作为投资建议</span>
 
 
 
